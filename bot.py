@@ -1,8 +1,5 @@
 import discord
-import requests
-import json
 import os
-import random
 from pokemon import Pokemon
 
 
